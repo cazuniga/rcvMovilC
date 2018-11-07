@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/opt01"
+        app:showAsAction="never"
+        android:title="Opcion 01"
+        android:icon="@drawable/logo_rcv_app"
+        />
+
+    <item
+        android:id="@+id/opt02"
+        app:showAsAction="never"
+        android:title="Opcion 02"
+        android:orderInCategory="100"
+        android:icon="@drawable/logo_rcv_ico"
+        />
+    <item
+        android:id="@+id/opt03"
+        app:showAsAction="never"
+        android:title="Opcion 03"
+        android:orderInCategory="110"
+        android:icon="@drawable/logo_rcv_ico"
+        />
+    <item
+        android:id="@+id/opt04"
+        app:showAsAction="never"
+        android:title="Opcion 04"
+        android:orderInCategory="120"
+        android:icon="@drawable/logo_rcv_ico"
+        />
+
+
+</menu>

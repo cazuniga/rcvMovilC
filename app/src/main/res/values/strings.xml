@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Vzla Resp</string>
+    <string name="nickName">RCV Móvil</string>
+
+    <string name="result_text_default">Apunte al Codigo QR</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Venezuela Responsable</string>
+    <string name="nav_header_subtitle">venezuelaresponsable@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="c_email">Correo</string>
+    <string name="c_password">Contraseña</string>
+    <string name="c_aceptar">Aceptar</string>
+    <string name="c_crear_cuenta">¿No tienes cuenta aún? Crea una.</string>
+    <string name="title_activity_maps">Mapa</string>
+</resources>
