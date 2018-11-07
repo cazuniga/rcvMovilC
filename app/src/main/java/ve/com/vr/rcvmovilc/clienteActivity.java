@@ -71,7 +71,7 @@ private void inicializarTBLCliente(){
                     "caz@correo.com",
                     "123",
                     "+584147914496",
-                    "Mi casa",
+                    "Mi casa 1",
                     "A"
             );
 
