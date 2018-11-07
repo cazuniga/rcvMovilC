@@ -48,6 +48,7 @@ public class ConfiguracionesDB {
         db.close();
     }
 
+
     public void deleteConfiguracion(long id) {
         this.openWriteableDB();
         String where = ConstantesDB.ID_CF_LC + "= ?";

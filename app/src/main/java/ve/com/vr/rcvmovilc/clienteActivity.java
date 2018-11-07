@@ -24,9 +24,9 @@ EditText edtRes;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cliente);
 
-        btnOk = (Button) findViewById(R.id.btnOk);
-        btnEl = (Button) findViewById(R.id.btnEl);
-        edtRes= (EditText) findViewById(R.id.edtRes) ;
+        btnOk =   findViewById(R.id.btnOk);
+        btnEl =   findViewById(R.id.btnEl);
+        edtRes=   findViewById(R.id.edtRes) ;
         btnOk.setOnClickListener(new View.OnClickListener() {
 
             @Override
@@ -71,7 +71,7 @@ private void inicializarTBLCliente(){
                     "caz@correo.com",
                     "123",
                     "+584147914496",
-                    "Mi casa 1",
+                    "Mi casa 11",
                     "A"
             );
 
